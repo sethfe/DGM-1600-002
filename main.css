@@ -1,0 +1,109 @@
+body { 
+    background-color: #4b9cd3;
+  }
+  
+  main { 
+    width: 960px;
+    margin: 1rem auto;
+  }
+  
+  header { 
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+  }
+  
+  #bio {
+    display: flex;
+    margin: 1rem 0 2rem 0;
+  }
+  #bio-choose {
+    width: 100%;
+    margin-left: 1rem;
+  }
+  
+  #name-date { 
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  
+  .paragraph-text {
+    padding: 8px;
+    background-color: #545454;
+    font: 1rem "roboto", sans-serif;
+  }
+  
+  ul {
+    padding-left: 15px;
+    color: #a4cae1;
+  }
+  
+  #tech {
+    display: flex;
+    justify-content: space-between;
+    }
+  
+  figure { 
+  text-align: center;
+    margin: 0px;
+  }
+  
+  figure > img {
+    max-height: 180px;
+  }
+  
+  figcaption {
+    color: #a4cae1;
+    font: 1rem "roboto", sans-serif;
+    background-color: rgba(0, 0, 0, .6);
+    position: relative;
+    bottom: 20px;
+    height: 40px;
+    max-width: 180px;
+  }
+  
+  #interterst > h2 {
+    font-weight: bold;
+  }
+  
+  .final-paragraph {
+    margin-bottom: 15px;
+  }
+  
+  .excited-header {
+    margin-bottom: 15px;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .fit-picture {
+    height: 90px;
+  }
+  
+  p {
+    margin: 0px;
+    color: #a4cae1;
+  }
+  
+  h2, h4 { 
+  margin: 0px;
+  color: #13294b;
+    font: 1.2em "roboto", sans-serif;
+  }
+  
+  h5 {
+    margin: 5px 0px 15px 0px;
+    color: #13294b;
+    font: 1em "roboto" , sans-serif;
+  }
+  
+  time {
+    color: #13294b;
+    font: 1.2em "roboto", sans-serif;
+    font-weight: bold;
+  }
